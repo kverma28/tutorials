@@ -1,0 +1,13 @@
+/**/.settings
+/**/*.project
+/**/*.classpath
+/**/target
+/**/out
+/**/.idea
+/**/*.iml
+/.metadata
+/RemoteSystemsTempFiles
+/**/.recommenders
+/**/.factorypath
+/**/.sonarlint
+#/**/.gitignore
